@@ -1,0 +1,14 @@
+version: "1"
+context:
+  active-host: "vj547.us1.dbt.com"
+  active-project: "70403103917950"
+projects:
+  - project-name: "Analytics"
+    project-id: "70403103917950"
+    account-name: "Digimarc"
+    account-id: "70403103916685"
+    account-host: "vj547.us1.dbt.com"
+    token-name: "cloud-cli-4ebc"
+    token-value: "dbtu_z_wQDtQ1hwdcaD0el3k0FDTJdnltOnAn7lH1OSxmrbIDlWoUY8"
+
+
